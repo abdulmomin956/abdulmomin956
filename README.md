@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulmomin956
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Front development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN stack development
+- 💞️ I’m looking to collaborate on getting job
 - 📫 How to reach me ...
 
 <!---
