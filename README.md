@@ -1,6 +1,8 @@
+ <h1 align="center">Hi, I’m Abdul Momin</h1
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmomin956&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
-- 👋 Hi, I’m @abdulmomin956
+
 - 👀 I’m interested in Full development.
 - 🌱 I’m currently learning MySQL.
 - 💞️ I’m looking to collaborate on Rindite.com
