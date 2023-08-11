@@ -4,8 +4,8 @@
 
 
 - 👀 I’m interested in Full development.
-- 🌱 I’m currently learning MySQL.
-- 💞️ I’m looking to collaborate on Rindite.com
+- 🌱 I’m currently learning NextJS.
+- 💞️ I’m looking to collaborate on hone.honouree.com
 - 📫 How to reach me: [Facebook](https://web.facebook.com/profile.php?id=100075723857043), [Freelacer.com](https://www.freelancer.com/u/designermomin28), [LinkedIn](https://www.linkedin.com/in/abdulmomin956/)
 
 ## 🌐 Socials
